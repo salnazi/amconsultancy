@@ -67,7 +67,7 @@ It will take around a couple of minutes to fill the assessment form. Our experts
                 </ul>-->
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-illustration-1.webp" alt="" class="img-fluid">
+                <img src="assets/img/skilled_immigration.png" alt="" class="img-fluid" style='border-radius:50px;'>
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -93,7 +93,7 @@ It will take around a couple of minutes to fill the assessment form. Our experts
                 </ul>-->
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-illustration-2.webp" alt="" class="img-fluid">
+                <img src="assets/img/work-permit.png" style='border-radius:50px;' alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -118,7 +118,7 @@ One of the finest ways to develop global skills and improve personal and profess
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-illustration-3.webp" alt="" class="img-fluid">
+                <img src="assets/img/student-visa.png" style='border-radius:50px;' alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -146,7 +146,7 @@ Contact AM Consultancy Immigration Consultants the best business immigration Con
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-illustration-3.webp" alt="" class="img-fluid">
+                <img src="assets/img/business-immigration.png" style='border-radius:50px;' alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
